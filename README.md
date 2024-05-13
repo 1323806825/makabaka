@@ -1,2 +1,0 @@
-# makabaka
-hello world
